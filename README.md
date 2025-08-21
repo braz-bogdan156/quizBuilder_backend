@@ -19,6 +19,7 @@ Implements CRUD operations for quizzes stored in **MongoDB**.
 ### 1. Install dependencies
 ```bash
 cd backend
+git clone https://github.com/braz-bogdan156/quizBuilder_backend
 npm install
 2. Configure environment
 Create a .env file in backend/:
